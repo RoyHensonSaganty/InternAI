@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import { Search, Sparkles, Bookmark, BriefcaseBusiness, MapPin, ArrowUpRight, RefreshCw, LayoutDashboard, Settings2, CheckCircle2, BrainCircuit, X, Mail, BellRing } from "lucide-react";
 import "./styles.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://internai-backend-2pkl.onrender.com";
 const defaultSkills = "Python, JavaScript, React, HTML, CSS, AI/ML";
 const defaultRoles = "AI Intern, Python Developer, Frontend Developer";
 
